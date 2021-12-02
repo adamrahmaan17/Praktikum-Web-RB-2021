@@ -147,6 +147,3 @@ if(isset($_GET["action"]))
 	</body>
 </html>
 
-<?php
-
-?>
